@@ -15,3 +15,4 @@ count_k=(count_k/x)*100
 count_s=(count_s/x)*100
 print("count_k",count_k)
 print("count_s",count_s)
+print("end")
